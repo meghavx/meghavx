@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-<!--
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=orbitze)](https://github.com/KnlnKS/leetcode-stats) 
-
 ![](https://raw.githubusercontent.com/orbitze/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/orbitze/cf-stats/main/output/light_card.svg)
+
+<!--
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=orbitze)](https://github.com/KnlnKS/leetcode-stats) 
 
 **orbitze/orbitze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
