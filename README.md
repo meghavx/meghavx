@@ -1,7 +1,10 @@
 ### Hi there 👋
 
-<!--![](https://raw.githubusercontent.com/orbitze/cf-stats/main/output/light_card.svg#gh-dark-mode-only)-->
-![](https://raw.githubusercontent.com/orbitze/cf-stats/main/output/light_card.svg)
+![](https://raw.githubusercontent.com/orbitze/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/orbitze/cf-stats/main/output/light_card.svg#gh-light-mode-only)
+
+![](https://raw.githubusercontent.com/orbitze/cf-stats/main/output/max_rating.svg)
+![](https://raw.githubusercontent.com/orbitze/cf-stats/main/output/rating.svg)
 
 <!--
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=orbitze)](https://github.com/KnlnKS/leetcode-stats) 
