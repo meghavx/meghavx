@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<!--
 <div align="left">
   <a href="https://github.com/orbitze/github-stats#gh-dark-mode-only">
     <img src="https://github.com/orbitze/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
@@ -11,7 +11,6 @@
   </a>
 </div>
 
-<!--
 ![](https://raw.githubusercontent.com/orbitze/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/orbitze/cf-stats/main/output/light_card.svg#gh-light-mode-only)
 
